@@ -1,6 +1,6 @@
 #include <iostream>
 #include <iomanip>
-
+#indlude <stdexcept>
 #include "utils/io.h"
 #include "Infer.h"
 #include "cnn/cnn.h"

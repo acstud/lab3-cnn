@@ -103,7 +103,7 @@ inference process, which can help accelerating other parts of the CNN. Therefore
  accelerate the pooling layer, the non-linear (relu_layer_t) layer, and even the reading function of input 
  images, to further improve the performance.
 
-##What will we run to test if you’ve implemented everything correctly?
+## What will we run to test if you’ve implemented everything correctly?
 
 * The function correctness of the training will be checked.
 

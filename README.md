@@ -1,4 +1,4 @@
-# Advanced Computing Systems 2020-2021 Lab 3 – Convolutional Neural Networks (CNNs)
+# Advanced Computing Systems 2022-2023 Lab 3 – Convolutional Neural Networks (CNNs)
 
 This application is intended to help students understand GPU programming through the acceleration of Convolutional 
 Neural Networks (CNNs), which is based on the implementation [simple_cnn](https://github.com/can1357/simple_cnn) by 
